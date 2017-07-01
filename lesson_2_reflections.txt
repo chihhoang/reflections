@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
--a .git folder is created to store metadata. To start using git
+-A .git folder is created to store metadata. To start using git
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-Specifies what changes to commit. To choose what file(s) to commit and what not.
